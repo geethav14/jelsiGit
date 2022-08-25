@@ -13,4 +13,8 @@ public class Arts{
 	public void bba() {
 		System.out.println("BBA");
 	}
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 }
