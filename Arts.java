@@ -13,4 +13,6 @@ public class Arts{
 	public void bba() {
 		System.out.println("BBA");
 	}
-}
+	private void sysout() {
+		System.out.println("Juno");
+	} }
